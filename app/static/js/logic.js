@@ -1,5 +1,5 @@
-Moralis.initialize(""); // Application id from moralis.io
-Moralis.serverURL = ""; //Server url from moralis.io
+Moralis.initialize(""); // https://s5mv83o5w2ji.usemoralis.com:2053/server
+Moralis.serverURL = ""; //https://s5mv83o5w2ji.usemoralis.com:2053/server
 
 const nft_contract_address = "" //NFT Minting Contract Use This One "Batteries Included", code of this contract is in the github repository under contract_base for your reference.
 /*
